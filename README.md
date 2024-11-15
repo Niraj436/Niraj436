@@ -1,4 +1,3 @@
-#About me
 ## 🚀 About Me
 I'm a full stack MERN developer.
 
